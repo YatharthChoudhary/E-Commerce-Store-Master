@@ -35,7 +35,7 @@
  2. `npm i`
  3. `npm run start`
 
-**NOTE** : If you stuck then contact me on LinkedIn (https://in.linkedin.com/in/mohit-sojitra)
+**NOTE** : If you stuck then contact me on LinkedIn (https://www.linkedin.com/in/yatharth-choudhary-72b891245/)
 
 ## Request
 
@@ -44,5 +44,4 @@
  - If You have suggestion or want new feature the feel free to **create an issue with label features**.
 
 
-#### If you like project then feel free to give Star 😅
 
